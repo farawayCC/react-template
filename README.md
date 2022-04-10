@@ -1,5 +1,5 @@
 # General
-React template. With axios and semantic-ui-react on board
+React template. With semantic-ui-react on board
 
 # Commands
 ### `yarn start`
